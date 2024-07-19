@@ -9,4 +9,7 @@ public class StaffLocateApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(StaffLocateApplication.class, args);
 	}
+
 }
+
+
